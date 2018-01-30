@@ -1,4 +1,4 @@
-# Regex-Character-validation-AngularJs
+# regex validation angularjs
 This is a simple module for building a Regex Validation using Angular JS.
 
 # Why Angular Js with Regex for validation?
