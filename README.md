@@ -1,9 +1,10 @@
 # regex validation angularjs
-This is a simple module for building a Regex Validation using Angular JS.
+It is a directive component to help regex validation in angular JS form fields.
 
-# Why Angular Js with Regex for validation?
-Angularjs is used to validate input text controls with the help of regular expressions. The angular js returns true if input text is validated as per expression otherwise it returns false.
-For example validating email id with Angular Js using regular expression or validation to allow only numbers with using regular expression.
+# Why we go for Regex validation?
+On time of entering keys into a input field, it just takes the entered input and matched with that given regex and returns the result. If it is true leaves the entered key as it is if not empty the entered key so wrong characters are automatically not allowed inside the input field. It is done with the use of custom directive in Angular JS.
+
+For example see the below image, here we validated only alphabets, only uppercase, only lowercase, only numbers for sample.
 
 <p align="center">
     <img  alt="Regex-Validate-AngularJs" src="img/regex.png" class="img-responsive">
